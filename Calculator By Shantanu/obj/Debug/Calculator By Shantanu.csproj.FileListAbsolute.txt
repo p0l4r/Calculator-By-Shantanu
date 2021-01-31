@@ -1,0 +1,11 @@
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\bin\Debug\Calculator By Shantanu.exe.config
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\bin\Debug\Calculator By Shantanu.exe
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\bin\Debug\Calculator By Shantanu.pdb
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator_By_Shantanu.Form1.resources
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator_By_Shantanu.Properties.Resources.resources
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator By Shantanu.csproj.GenerateResource.cache
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator By Shantanu.csproj.CoreCompileInputs.cache
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator By Shantanu.exe
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator By Shantanu.pdb
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator_By_Shantanu.Form3.resources
+J:\Dot net Practice app\Calculator By Shantanu\Calculator By Shantanu\obj\Debug\Calculator By Shantanu.csprojAssemblyReference.cache
